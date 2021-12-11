@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 1.3vw;
+}
+
+div {
+    color: red;
+    font-size: 1.5vw;
+    font-weight: bold;
+}
